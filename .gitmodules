@@ -4,3 +4,6 @@
 [submodule "code/opengl"]
 	path = code/opengl
 	url = git@github.com:igobrado/OpenGL-playground.git
+[submodule "code/infrastructure"]
+	path = code/infrastructure
+	url = git@github.com:igobrado/Game-Engine-infrastructure.git
