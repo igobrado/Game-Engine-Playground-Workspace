@@ -24,7 +24,7 @@
     <ProjectGuid>{23d41612-68b3-4a67-9290-7c979622546d}</ProjectGuid>
     <RootNamespace>GameEngineWorkspace</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>SandboxApplication</ProjectName>
+    <ProjectName>AGameEngineWorkspace</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
